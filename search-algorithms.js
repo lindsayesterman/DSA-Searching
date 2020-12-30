@@ -41,18 +41,6 @@ const LIBRARY = [
     deweyNum: "020.13",
     title: "Dictionary5",
   },
-  {
-    deweyNum: "300.13",
-    title: "Dictionary7",
-  },
-  {
-    deweyNum: "430.13",
-    title: "Dictionary9",
-  },
-  {
-    deweyNum: "500.13",
-    title: "Dictionary0",
-  },
 ];
 
 function deweyFind(
